@@ -22,7 +22,7 @@ To determine how different channels contribute to conversions and how attributio
 - Attribution models significantly change channel importance
 
 ##  Project Structure
-- /data → Final result tables
+- /Result_tables → Final result tables
 - /Project.sql → SQL queries for transformation & attribution
 - /powerbi → [Dashboard file] 
 
