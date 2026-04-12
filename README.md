@@ -48,14 +48,13 @@ To identify the role of different marketing channels in user acquisition and con
 - Email is effective for driving initial engagement, while Google is critical for closing conversions
 - A **multi-channel strategy** is necessary for optimizing marketing performance
 
-## ❓ Why this project matters
+## ? Why this project matters
 
 Choosing the wrong attribution model can result in poor budget allocation and ineffective marketing strategies.  
 
 ##  Project Structure
 - /Result_tables → Final result tables
 - /Project.sql → SQL queries for transformation & attribution
-- /powerbi → [Dashboard file] 
 
 Dataset: [Data](https://drive.google.com/file/d/1WxjNJzbyZqLyMK6Ykr0lISOoCyQKCfDm/view?usp=drive_link)
 
