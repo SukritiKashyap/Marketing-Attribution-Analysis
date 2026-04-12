@@ -61,5 +61,6 @@ Dataset: [Data](https://drive.google.com/file/d/1WxjNJzbyZqLyMK6Ykr0lISOoCyQKCfD
 
 Dataset Source: Kaggle
 
-## 📷 Dashboard Preview
-(Add screenshot here)
+##  Dashboard Preview
+<img width="889" height="514" alt="image" src="https://github.com/user-attachments/assets/9278e5cd-4da1-4034-bcd6-3bbd659148ed" />
+
